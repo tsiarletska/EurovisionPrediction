@@ -1,7 +1,7 @@
 # EurovisionPrediction
 
 
-##Initial data: 
+#Initial data: 
 data.csv: file with songs data of Eurovision form 2000 to 2023. Contains only songs qualifies for the final.  Lyrics are not cleaned.
 Contains columns: Year,Place,Points,No.,Country,Performer,Song,Lyrics. Lyrics are cleaned. 
 test_2024.csv: file with songs form 2024 final
