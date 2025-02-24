@@ -4,17 +4,22 @@
 ## Initial data: 
 **data.csv** : file with songs data of Eurovision form 2000 to 2023. Contains only songs qualifies for the final.  Lyrics are not cleaned.
 Contains columns: Year,Place,Points,No.,Country,Performer,Song,Lyrics. Lyrics are cleaned. 
+
 **test_2024.csv**: file with songs form 2024 final
 Contains columns: Year,Lyrics,Country,Performer,Song,Place,Topic
 
 ## Models: 
 **pred3.py** - the NN model, which predicts the placement based on cleared lyrics (noted on the songs parts and stop worlds in english)
+
 **pred4.py** - the NN model,, whicj predicts the placement based on teh country, cleared lyrics, year, languages, topics
+
 **pred5.py** - similar to pred4.py, but loops throught the models' parameters and saves the results of the metrics
 
 ## Prediction results: 
 **pred3.py** - generates file "eurovision_predictions.csv" with Country,Song,Performer,Actual_Place,Predicted_Place,Prediction_Error
-**pred4.py** - generates file "results_pred4.csv" with Song,Performer,Year,Predicted_Place,Actual_Place\\
+
+**pred4.py** - generates file "results_pred4.csv" with Song,Performer,Year,Predicted_Place,Actual_Place
+
 **pred5.py** - generated file "hyperparameter_results.csv" with activation,lr,batch_size,epochs,MAE,MSE,Spearman
 
 
