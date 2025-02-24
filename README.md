@@ -14,7 +14,7 @@ Contains columns: Year,Lyrics,Country,Performer,Song,Place,Topic
 
 ## Prediction results: 
 **pred3.py** - generates file "eurovision_predictions.csv" with Country,Song,Performer,Actual_Place,Predicted_Place,Prediction_Error
-**pred4.py** - generates file "results_pred4.csv" with Song,Performer,Year,Predicted_Place,Actual_Place
+**pred4.py** - generates file "results_pred4.csv" with Song,Performer,Year,Predicted_Place,Actual_Place\\
 **pred5.py** - generated file "hyperparameter_results.csv" with activation,lr,batch_size,epochs,MAE,MSE,Spearman
 
 
