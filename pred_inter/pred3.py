@@ -8,9 +8,7 @@ import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
 from sklearn.feature_extraction.text import TfidfVectorizer
- # from langid_fasttext import LanguageIdentifier  # FastText-based language detector
- # 
- # import langid
+from langid_fasttext import LanguageIdentifier  # FastText-based language detector
 
 
 def clean_lyrics(lyrics):

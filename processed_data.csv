@@ -380,7 +380,7 @@ sarò lì a dirti che sbagli, ti sbagli e lo sai
 qui non arriva la musica
 tanto lo so che tu non dormi, dormi, dormi, dormi, dormi mai
 che giri fanno due vite
-due vite",it,3
+due vite",it,4
 2023,5,268,20,Norway,Alessandra,Queen of Kings,"She, queen of the kings, runnin' so fast, beatin' the wind
 Nothin' in this world can stop the spread of her wings
 She, queen of the kings, broken her cage, threw out the keys
@@ -974,7 +974,7 @@ choose love over power
 хоробра єдина
 корона твоя
 jsme v srdcích s tebou
-we stand for you","bg, en, et",1
+we stand for you","bg, en",1
 2023,11,127,22,Lithuania,Monika Linkytė,Stay,"I've carried sadness with me
 I hid it well since sixteen
 And all the crying, all the fighting
@@ -1542,7 +1542,7 @@ c'n'est jamais trop laid pour être faux
 évidemment
 elle ne sera plus jamais la même
 cette fille d'avant
-évidemment",fr,4
+évidemment",fr,3
 2023,17,100,8,Spain,Blanca Paloma,Eaea,"Ya, ea
 Ya, eaea (¡ole!)
 Ay, ven a mí, niño mío (ya)
@@ -2517,7 +2517,7 @@ blood and glitter
 розквітає поле, а вона сивіє
 заспівай мені мамо колискову
 хочу ще почути твоє рідне слово
-",uk,1
+",uk,-1
 2022,2,466,22,United Kingdom,Sam Ryder,SPACE MAN,"If I was an astronaut, I'd be floating in mid-air
 And a broken heart would just belong to someone else down there
 I would be the centre of my lonely universe
@@ -2741,7 +2741,7 @@ voy a bajarlo
 hasta el suelo-lo-lo-lo-lo
 if the way i shake it to this dembow (a este dembow)
 drives you loco (yeah)
-take a video, watch it slow mo",es,2
+take a video, watch it slow mo","es, en",2
 2022,4,438,20,Sweden,Cornelia Jakobs,Hold Me Closer,"No need to apologize
 'Cause there's nothing to regret
 Well, this is not what I wanted
@@ -3040,7 +3040,7 @@ e pagherei per andar via
 accetterei anche una bugia
 e ti vorrei amare, ma sbaglio sempre
 e mi vengono i brividi, brividi, brividi
-",it,3
+",it,4
 2022,7,253,19,Moldova,Zdob şi Zdub & Fraţii Advahov,Trenulețul,"Merge trenul, parcă zboară
 Dintr-o țară-n altă țară
 Merge și nu poate pricepe
@@ -3491,7 +3491,7 @@ oehoe aha
 hier in de diepte hoor ik steeds maar weer je naam
 oehoe aha
 oh mijn lief wat moet ik nou
-ik zit diep en ik wil jou niet laten gaan","nl, so",1
+ik zit diep en ik wil jou niet laten gaan",nl,1
 2022,12,151,23,Poland,Ochman,River,"Gonna take my body down
 Right down, down, down to the river
 Gonna take my body down
@@ -4475,7 +4475,7 @@ að finna innri ró
 í dimmum vetri – hækkar sól
 bræðir hjartans klakabönd – svo hlý
 í dimmum vetri – vorið væna
-vermir þitt vænghaf á ný","no, da",1
+vermir þitt vænghaf á ný","da, no",1
 2022,24,17,6,France,Alvan & Ahez,Fulenn,"Tan de'i
 E teñvalijenn ar c'hoadeier e tiwan an noz
 Ar stered a deu war-wel en hiboud direpoz
@@ -4534,7 +4534,7 @@ dañsal a ran gant an diaoul ha para?
 lalalalalalaleno lalelalalo
 lalalalalalaleno lalelalalo
 lalalalalalaleno lalelalalo
-lalalalalalaleno lalelalalo","id, es, ca",1
+lalalalalalaleno lalelalalo","es, id, ca",1
 2022,25,6,13,Germany,Malik Harris,Rockstars,"Look where we are
 We used to be the rockstars
 Who never thought of no harm
@@ -4772,7 +4772,7 @@ ma sono fuori di testa, ma diverso da loro
 e tu sei fuori di testa, ma diversa da loro
 siamo fuori di testa, ma diversi da loro
 e siamo fuori di testa, ma diversi da loro, ah
-noi siamo diversi da loro",it,3
+noi siamo diversi da loro",it,4
 2021,2,499,20,France,Barbara Pravi,Voilà,"Écoutez-moi
 Moi, la chanteuse à demi
 Parlez de moi
@@ -4837,7 +4837,7 @@ regardez-moi enfin et mes yeux et mes mains
 tout c'que j'ai est ici, c'est ma gueule, c'est mon cri
 me voilà, me voilà, me voilà
 voilà, voilà, voilà, voilà
-voilà",fr,4
+voilà",fr,3
 2021,3,432,11,Switzerland,Gjon's Tears,Tout l'Univers,"Laissez le vent qui frôle
 Sa main sur mon épaule
 Le vide dans ma tête
@@ -4902,7 +4902,7 @@ nos deux cœurs sous la terre
 au milieu des failles, des ressacs
 nous nous retrouvons au point d'impact
 comment soigner nos cœurs qui éclatent?
-tout l'univers",fr,4
+tout l'univers",fr,3
 2021,4,378,12,Iceland,Daði og Gagnamagnið,10 Years,"We've been together for a decade now
 Still everyday I'm lovin' you more
 If I could do it all again
@@ -5486,7 +5486,7 @@ don't be afraid, don't be afraid
 а, а
 э, э
 (а, а)
-о-о-о",ru,1
+о-о-о",ru,-1
 2021,10,170,10,Greece,Stefania,Last Dance,"My heart was born a radical
 Electric and dynamical
 I never listened to the remedies
@@ -6449,7 +6449,7 @@ let's start a fire (shh)
 let's go
 ma-ma-ma-ma, mata hari
 ma-ma-ma-ma, ma-ma-ma-ma, mata hari
-mata hari",id,0
+mata hari","id, sw",0
 2021,21,57,2,Albania,Anxhela Peristeri,Karma,"Zoti nuk ma fal!
 Jeta si në përrallë më kish llastuar
 Lart në qiell si një yll jetoja unë
@@ -7135,7 +7135,7 @@ lasci la città ma nessuno lo sa
 ieri eri qua, ora dove sei papà?
 mi chiedi come va, come va, come va
 sai già come va, come va, come va
-",it,3
+",it,4
 2019,3,370,5,Russia,Sergey Lazarev,Scream,"No, I can't stay here longer
 You cannot make me cry
 So, I will leave you to wonder
@@ -9573,7 +9573,7 @@ yeah ah yeah ah yeah
 fuego (hey)
 fuego (hey)
 ah yeah ah yeah ah yeah
-yeah ah yeah ah yeah","en, id, so",0
+yeah ah yeah ah yeah","en, so",0
 2018,3,342,5,Austria,Cesár Sampson,Nobody But You,"Lord, I'm gonna get so high tonight
 I'm gonna let the floodgates open wide
 I'm in open water
@@ -9868,7 +9868,7 @@ le vostre inutili guerre
 sono consapevole che tutto più non torna
 la felicità volava
 come vola via una bolla
-",it,3
+",it,4
 2018,6,281,14,Czechia,Mikolas Josef,Lie To Me,"Oh oh she a good girl at home but
 Her skirt goes up like Marilyn Monroe's
 Papa likes the drama mama hotter then lava
@@ -10133,7 +10133,7 @@ nell'infinito per l'eternità
 la forza del destino volteggiar mi fa
 l'ora è vicina di felicità
 è un sogno o realtà la nostra affinità?
-sull'ali dell'amore rosé",it,3
+sull'ali dell'amore rosé",it,4
 2018,9,226,15,Denmark,Rasmussen,Higher Ground,"Ships in the making
 Bound for a distant shore
 World for the taking
@@ -10516,7 +10516,7 @@ mercy, mercy, je vais bien merci
 mercy, mercy, mercy, mercy
 mercy, mercy, je vais bien merci
 mercy, mercy, mercy, mercy
-mercy, mercy, je vais bien merci",fr,4
+mercy, mercy, je vais bien merci",fr,3
 2018,14,166,18,Bulgaria,EQUINOX,Bones,"Love is like a black hole
 Everything is dark
 You just gotta let go
@@ -11999,7 +11999,7 @@ occidentali's karma.
 occidentali's karma
 la scimmia nuda balla
 occidentali's karma
-",it,3
+",it,4
 2017,7,282,20,Romania,Ilinca ft. Alex Florea,Yodel It!,"Hey, all you out there, wanna sing this out
 Yodele, yodele-oh, sing it!
 Yodele, yodele ee-oh!
@@ -12535,7 +12535,7 @@ ce qu'il a donné
 ce qu'il a donné
 ce qu'il a donné
 ce qu'il a donné
-ce qu'il a donné",fr,4
+ce qu'il a donné",fr,3
 2017,13,128,13,Croatia,Jacques Houdek,My Friend,"There are only two ways to live your life
 One is as though nothing is a miracle
 The other is as though everything’s a miracle
@@ -12930,7 +12930,7 @@ budzie sviacić jašče jarčej
 u našaj kryvi
 sonca zajhraje
 usia pryhažosć
-tvaich vače","sk, pl, hr",1
+tvaich vače","sk, pl, lv",1
 2017,18,79,5,Armenia,Artsvik,Fly With Me,"Wanna tell a story
 About a girl with history
 Take it from my heart, it's gonna be your beat
@@ -13127,7 +13127,7 @@ so you know where i am, so you know where i am
 so you know where i am
 (so you know where i am, so you know where i am)
 so you know where i am
-(so you know where i am) so you know where i am",en,0
+(so you know where i am) so you know where i am","en, cy",0
 2017,21,68,19,Cyprus,Hovig,Gravity,"No matter where you're goin'
 No matter where you be
 Wherever the wind is blowin'
@@ -13665,7 +13665,7 @@ and love
 oh baby just do it
 oh baby just do it
 just do it, just do it
-la la la la la la la la","es, en",2
+la la la la la la la la",es,2
 2016,1,534,21,Ukraine,Jamala,1944,"When strangers are coming
 They come to your house
 They kill you all and say
@@ -13738,7 +13738,7 @@ yaşlığıma toyalmadım
 ah-ah-ah-ah, ah-ah-ah-ah
 men bu yerde yaşalmadım
 yaşlığıma toyalmadım
-vatanıma toyalmadım","tr, en",0
+vatanıma toyalmadım",tr,0
 2016,2,511,13,Australia,Dami Im,Sound Of Silence,"Growing tired and weary brown eyes
 Trying to feel your love through face time
 Symphonies of dreams and highlights
@@ -14654,7 +14654,7 @@ slow down, brother
 slow down if you can't go on
 slow down, brother
 slow down, brother
-slow down if you can't go on","en, cy",0
+slow down if you can't go on",en,0
 2016,12,153,22,Malta,Ira Losco,Walk On Walter,"I've been fadin' into grey
 Tryna be someone
 Tryna please someone
@@ -14812,7 +14812,7 @@ on chante, on chante
 on chante, on chante, on danse, on danse
 dans un pays
 on chante, on chante, on danse, on danse
-loin d’ici",fr,4
+loin d’ici",fr,3
 2016,14,135,7,Israel,Hovi Star,Made Of Stars,"A language I don't understand
 You speak, I listen, I'm your friend (you hypnotize me)
 Take my hand
@@ -15039,7 +15039,7 @@ nessun grado di separazione
 nessun grado di separazione
 in questo universo che si muove
 e poi ho sentito un'emozione accendersi veloce
-e farsi strada nel mio petto senza spegnere la voce",it,3
+e farsi strada nel mio petto senza spegnere la voce",it,4
 2016,17,117,4,Azerbaijan,Samra,Miracle,"You got in my head, boy, like a song
 That I kept on singing all along
 But the radio stopped to play us long ago
@@ -16184,7 +16184,7 @@ respiro dei giorni miei d'amore.
 dimmi che sai
 che non mi sbaglierei mai
 dimmi che sei
-che sei il mio unico grande amore",it,3
+che sei il mio unico grande amore",it,4
 2015,4,217,13,Belgium,Loïc Nottet,Rhythm Inside,"Listen to the sound of thunder
 Rolling in the soul down under
 Far beneath the skin, it rumbles
@@ -17796,7 +17796,7 @@ et je fais le serment
 quand séchera le sang
 de reconstruire ma ville
 bien plus belle qu'un port
-mais n'oubliez pas",fr,4
+mais n'oubliez pas",fr,3
 2015,26,0,14,Austria,The Makemakes,I Am Yours,"Anytime that you're thinking of me
 That you might want me, I come on over
 Don't you know, anytime, any place, I am yours
@@ -18747,7 +18747,7 @@ another cliche baby
 skuba duba dab dab didi daj
 baby i'ma do whаtever you like
 i love you
-another cliche love ѕong","en, so",0
+another cliche love ѕong",en,0
 2014,10,74,19,Spain,Ruth Lorenzo,Dancing in the rain,"Love gets us thru the night
 Picks us up
 And takes us on the wildest ride
@@ -19761,7 +19761,7 @@ spingo forte non ti temo
 voglio tutto, voglio te
 voglio te, voglio te, voglio te, voglio te
 voglio te, voglio te, voglio te, voglio te
-",it,3
+",it,4
 2014,22,33,3,Azerbaijan,Dilara Kazimova,Start A Fire,"Someone's selling garden roses down the square.
 People gathering by to breathe the morning air,
 but no one sees the bitter cold and shivering empty hands
@@ -20160,7 +20160,7 @@ je veux ci, je veux ça
 y en a jamais assez pour moi
 c'est comme-ci, c'est comme ça
 y a toujours un truc que j'ai pas
-et moi je voulais une moustache",fr,4
+et moi je voulais une moustache",fr,3
 2013,1,281,18,Denmark,Emmelie de Forest,Only Teardrops,"The sky is red tonight
 We're on the edge tonight
 No shooting star to guide us
@@ -20427,7 +20427,7 @@ and i should have stayed up high
 (it's stronger than me) my gravity, my gravity
  
 gravity
-",en,0
+","en, no",0
 2013,4,191,24,Norway,Margaret Berger,I Feed You My Love,"A cocoon in a silent tree
 Through the dark night you listen to me
 When I whisper broken words in your ear
@@ -20678,7 +20678,7 @@ alcohol is free, alcohol is free
 alcohol, alcohol, alcohol is free
 alcohol, alcohol, alcohol is free
 alcohol, alcohol, alcohol is free
-alcohol is free, alcohol is free",el,3
+alcohol is free, alcohol is free",el,4
 2013,7,126,23,Italy,Marco Mengoni,L'Essenziale,"Sostengono gli eroi
 ""Se il gioco si fa duro, è da giocare""
 Beati loro poi
@@ -20749,7 +20749,7 @@ appartengono anche a te
 mentre il mondo cade a pezzi
 mi allontano dagli eccessi e dalle cattive abitudini
 tornerò all'origine
-e torno a te, che sei per me l'essenziale",it,3
+e torno a te, che sei per me l'essenziale",it,4
 2013,8,120,9,Malta,Gianluca,Tomorrow,"Woah-oh, oh-oh
 Woah-oh, oh-oh
 His name is Jeremy, working in IT
@@ -20932,7 +20932,7 @@ zlatni momtzi, momi za milioni,
 samo divi, samo shampioni,
 zlatni momtzi, momi za milioni
 samo divi, samo shampioni,
-zlatni momtzi, momi za milioni.","hr, it, et",1
+zlatni momtzi, momi za milioni.","hr, it, sw",1
 2013,11,71,3,Moldova,Aliona Moon,O Mie,"O mie de apusuri pierdute în mare
 Pierdute în noi
 Pe gene o mie de raze de soare
@@ -21029,7 +21029,7 @@ apoi le-am distrus amândoi
 dar noi vedem doar nori
 amintiri despre noi înșirat-am pe foi
 apoi le-am distrus amândoi
-",ro,3
+",ro,4
 2013,12,71,6,Belgium,Roberto Bellarosa,Love Kills,"So the arrow shot right through her heart and brought her to the cold
 And she felt so deep like she had never felt so deep before
 But the pain was almost unbelievable
@@ -21833,7 +21833,7 @@ tu vas manquer d'air
 qu'on se retrouve à deux
 à moins qu'il nous faille
 renoncer
-je vais te faire l'enfer",fr,4
+je vais te faire l'enfer",fr,3
 2013,24,13,4,Finland,Krista Siegfrids,Marry Me,"Spying on you undercover, drinking coffee with your mother
 Am I getting closer?
 Baby, I feel like a sinner, skipping dinner to get thinner
@@ -21934,7 +21934,7 @@ yeah, i do it for you, marry me baby
 oh oh, oh oh oh, ding dong
 oh oh, oh oh oh, ding dong
 oh oh, oh oh oh oh oh, ding dong
-oh oh, oh oh oh, ding dong","en, cy",0
+oh oh, oh oh oh, ding dong",en,0
 2013,25,8,5,Spain,ESDM,Contigo Hasta El Final (With You Until The End),"El cielo azul
 Gana paso a la tormenta que
 Amenazó mi corazón
@@ -22749,7 +22749,7 @@ siamo tutti insoddisfatti,
 come mai
 femmina
 se non riceve non si da
-la la la",it,3
+la la la",it,4
 2012,10,97,19,Spain,Pastora Soler,Quédate Conmigo (Stay With Me),"Perdón si no supe decir
 Que lo que eras todo para mí
 Perdón por el dolor
@@ -23000,7 +23000,7 @@ when you love you say everyday, everybody
 zaleilah leilah lei
 everyday, everybody
 zaleilah leilah lei
-zaleilah leilah lei","en, es, nl",2
+zaleilah leilah lei","en, es",2
 2012,13,71,22,North Macedonia,Kaliopi,Crno I Belo,"Во очи сега гледај ме
 Не сум губитник ти знај
 Не се предавам до крај
@@ -23241,7 +23241,7 @@ now you can be my guest
 lala lalala lalalalalala lala
 you can be my guest
 lala lalala lalalalalala lala
-be my gues",en,0
+be my gues","en, so",0
 2012,16,65,8,Cyprus,Ivi Adamou,La La Love,"Lala lalalalalala lalalalala love
 Lala lalalalalala lalalalala love
 Love the way you fill me up with life
@@ -23780,7 +23780,7 @@ on se retrouvera
 in my dreams, in my dreams
 in my heart, in my mind
 i see you and i
-there is you and i",fr,0
+there is you and i","fr, ca",0
 2012,23,21,15,Denmark,Soluna Samay,Should've Known Better,"Should've known better,
 Now I miss you,
 Like Sahara miss the rain.
@@ -24202,7 +24202,7 @@ e vedrai un altra te quasi invincibile
 viva come non mai ed e' li che tu mi avrai
 oltre false magie l'orizzonte sarai
 splenderai, splenderai, splenderai
-splenderai!","it, en",3
+splenderai!","it, en",4
 2011,3,185,7,Sweden,Eric Saade,Popular,"Stop, don't say that it's impossible
 'Cause I know it's possible
 Though I know you never look my way
@@ -24621,7 +24621,7 @@ watch my dance, head up high, hands like wings and i'll fly
 την έχει η ψυχή μου τη φωτιά
 τους φόβους όλους καίει μοναδικά
 τα βήματά μου κάνω ως το θεό
-κι αν πέσω εγώ ξανά θα σηκωθώ","el, en",0
+κι αν πέσω εγώ ξανά θα σηκωθώ",el,0
 2011,8,119,6,Ireland,Jedward,Lipstick,"You say you’re on it but you just don’t know
 You’re spending money like you’re on death row
 You must be mis-educated
@@ -25335,7 +25335,7 @@ piengu è sò male
 pregu u celu fin'à more
 quì da i monti, quì di front'à tè
 esceraghju d'issu so...
-s'è tù mori, eu dinò",it,3
+s'è tù mori, eu dinò",it,4
 2011,16,77,10,Russia,Alexej Vorobjov,Get You,"I choose my words like wise men do
 And tonight
 I'll get you right
@@ -25444,7 +25444,7 @@ im running im gunning for you
 oh oh
 im gonna get you
 i know u
-u want me too","en, cy",0
+u want me too",en,0
 2011,17,77,17,Romania,Hotel FM,Change,"[Verse 1]
 You think you’ve got
 The time to figure it out
@@ -26983,7 +26983,7 @@ apricot stone",en,0
 όλα θα τ’ αλλάξω
 και θα το φωνάξω
 περασμένα ξεχασμένα κι όλα απ’ την αρχή ξανά
-ώπα!",el,3
+ώπα!",el,-1
 2010,9,136,13,Georgia,Sofia Nizharadze,Shine,"Who can ever tell the color of a soul
 And the memories we keep from long ago?
 Do we ever really know each other's past?
@@ -27313,7 +27313,7 @@ badabadam-badam- (tout le monde!)
 allez allez allez, allez ola olé
 allez allez allez, ola olé
 allez allez allez, allez ola olé (allez)
-allez allez allez, c'est le son de l'année",fr,4
+allez allez allez, c'est le son de l'année",fr,3
 2010,13,72,8,Serbia,Milan Stanković,Ovo Je Balkan,"[Tekst pesme ""Ovo je Balkan""]
 
 [Strofa 1]
@@ -27511,7 +27511,7 @@ oh-oh-oh-oh-oh
 il restera ses mots qu'il me faudra choisir
 oh mon dieu, oh
 il restera ses mots
-",fr,4
+",fr,3
 2010,15,68,2,Spain,Daniel Diges,Algo Pequeñito,"Algo pequeñito, algo chiquitito
 Una rosa blanca, una caricia, un beso dulce y un perdón
 Algo pequeñito, algo chiquitito
@@ -29014,7 +29014,7 @@ jusqu'à n'être plus rien
 que l'ombre de tes nuits,
 jusqu'à n'être plus rien
 qu'une ombre qui te suit.
-et s'il fallait le faire...",fr,4
+et s'il fallait le faire...",fr,3
 2009,9,106,12,Bosnia & Herzegovina,Regina,Bistra Voda,"Pitao sam neke ljude u mome kraju
 Gdje mi duša stanuje
 Jednu tajnu za mene
@@ -29174,7 +29174,7 @@ jumpin' up with the նոր պար
 jumpin′ up, move your body
 we are dancing նոր պար
 everybody must be ready
-jumpin' up with the նոր պար",en,3
+jumpin' up with the նոր պար",en,-1
 2009,11,91,10,Russia,Anastasia Prikhodko,Mamo,"Вышел из тени вновь -- мой враг, -- моя любовь.
 Неизбежна моя доля, сколько сердце ни готовь.
 Но, прежде чем уйти, колечком золотым
@@ -29219,7 +29219,7 @@ jumpin' up with the նոր պար",en,3
 мама,
 а ты же мне сказала: ""время -- вода"".
 мама, мама, мама!
-любовь -- беда.",ru,1
+любовь -- беда.",ru,-1
 2009,12,76,21,Ukraine,Svetlana Loboda,Be my Valentine! (Anti-crisis Girl),"You are sexy – bom
  
 You are so sexy – bom
@@ -29741,7 +29741,7 @@ e eu serei tua
 serás meu
 e eu serei tua
 serás meu
-e eu serei, tua",pt,2
+e eu serei, tua","pt, ca",2
 2009,16,53,2,Israel,Noa & Mira Awad,There Must Be Another Way,"There must be another
 Must be another way
 
@@ -29844,7 +29844,7 @@ there must be another way
 there must be another way
 there must be another way
 there must be another
-must be another way",en,3
+must be another way","en, he",-1
 2009,17,48,19,Albania,Kejsi Tola,Carry Me In Your Dreams,"My love for you grows with each passing day
 I'm by your side when you're away
 When I miss you and long for your care
@@ -30931,7 +30931,7 @@ to end our fight
 just hold me tight!
 
 (քե... քե... քե... քելե)
-",en,1
+",en,4
 2008,5,182,25,Norway,Maria,Hold On Be Strong,"[Verse 1]
 Love can be hard sometimes
 Yes, it can catch you off guard like bad crimes
@@ -31274,7 +31274,7 @@ and you come with me, with me
 
 לא אור כוכב
 איתי, איתי, כאילו אמיתי
-כמו אז מזמן",he,3
+כמו אז מזמן",he,-1
 2008,10,110,6,Bosnia & Herzegovina,Laka,Pokušaj,"Ne silazi sa čardaka, reko mi je pjevač Laka
 Ne klepeći nanulama, nemoj da se praviš dama
 Ne silazi sa čardaka, reko mi je lično Laka
@@ -31825,7 +31825,7 @@ uno: el brikindans
 dos: el crusaíto
 tres: el maiquelyason
 cuatro: el robocop
-¡¡¡perrea perrea!!!",es,2
+¡¡¡perrea perrea!!!","es, id",2
 2008,17,55,3,Albania,Olta Boka,Zemrën E Lamë Peng,"Ora si zemër troket
 Ora e çmendur rend
 Akrepa nuk ka
@@ -32203,7 +32203,7 @@ il nostro camino vedra
 la luce di un amore senza eta
 la luce di un amore senza eta
 sa-mi spui ca vei ramane doar
-a mea",it,3
+a mea",it,4
 2008,21,44,9,Croatia,Kraljevi Ulice & 75 Cents,Romanca,"Vidiš prijatelju, ja pamtim sve
 I mogu ti reći da između ove
 I milijun drugih pjesama ne postoji razlika
@@ -32852,7 +32852,7 @@ tanzen
 танцює майдан
 ukraine dancing
 dancing
-ok happy end","af, en, id",1
+ok happy end","af, en, de",1
 2007,3,207,15,Russia,Serebro,Song # 1,"Five, four, three, two
 Listen to me
 All my girls get ready (Uh huh)
@@ -33129,7 +33129,7 @@ tara-du-day du-dara dara-du-da
 tara-du-day du-dara dara-du-da (hey)
 tara-du-day du-dara dara-du-da (hey, hey)
 tara-du-day du-dara dara-du-da (hey)
-tara-du-day du-dara dara-du-da","so, es, id",1
+tara-du-day du-dara dara-du-da","so, es, fr",1
 2007,6,145,3,Belarus,Dmitry Koldun,Work Your Magic,"Welcome to the night
 And you will see you've got the magic power
 I am on my way, I keep the key to your tower
@@ -33761,7 +33761,7 @@ inima spune ea, aicï e casa ta (hey)
 ¡ole! ¡arriba! (hey)
 locomondo (hey)
 everybody, viva l'amore (hey)
-sing with me baby, hop, hop, şaşa! (hey)","en, fr",3
+sing with me baby, hop, hop, şaşa! (hey)","en, es, it",4
 2007,14,73,6,North Macedonia,Karolina,Mojot Svet,"Naina naina, nanana naina
 Naina naina, nanana naina
 Naina naina, nanana naina
@@ -33972,7 +33972,7 @@ mai piu' finira'
 ora e poi
 e sempre di piu'
 questa notte per sempre sara'
-questa notte per sempre sara'",it,3
+questa notte per sempre sara'",it,4
 2007,17,53,5,Finland,Hanna Pakarinen,Leave Me Alone,"I have to leave, but you are still sleeping
 There's nothing to say, our time has run out
 You took me to bed, that's what you were seeking
@@ -34213,7 +34213,7 @@ ein lasziver blick
 und schon ändert sich deine politik
 kein boss und kein actionheld
 kein staat und kein mafiageld
-frauen regiern die welt",de,4
+frauen regiern die welt",de,3
 2007,20,43,2,Spain,NASH,I Love You Mi Vida,"Hey hey hey
 Hey hey hey
 Ven hacia mí, descubre el amor
@@ -35595,7 +35595,7 @@ are you ready, are you ready, are you ready for love?
 i am your superstar, you feel me, baby
 i'm your shining star, you reach me, baby
 i know what you are, just show me, baby
-are you ready, are you ready, are you ready for love?",en,0
+are you ready, are you ready, are you ready for love?","en, cy",0
 2006,12,56,11,North Macedonia,Elena Risteska,Ninanajna,"(Come, don't be afraid now, yeah)
 (Yo, little girl)
 (We gotta feel at home)
@@ -36738,7 +36738,7 @@ il était temps pourvu que ça reste
 et si ça ne dure pas
 je s'rais heureuse de dire aux enfants
 que j'y ai touché une fois dans mon temps
-il était temps.",fr,4
+il était temps.",fr,3
 2006,23,4,3,Israel,Eddie Butler,Ze Hazman,"זה הזמן להתאחד עם כל הנשמה
 זה הרגע, זה הזמן
 It's now or never
@@ -36821,7 +36821,7 @@ together we are one
 i know that we, we can make it if we try
 look into your soul
 listen to your heart
-אוהב אותך לעדאני שלך לעד",he,3
+אוהב אותך לעדאני שלך לעד",he,-1
 2006,24,1,7,Malta,Fabrizio Faniello,I Do,"Cause I do, I do, I do
 I do, I do, I love you like a fool
 (Love you like a fool)
@@ -37252,7 +37252,7 @@ just let me try",en,0
 
 לילה בא לאט, הזמן נעצר
 לילה ואתה השקט שנשאר
-רגע אחד נופלת איתך בסוף המשחק",he,3
+רגע אחד נופלת איתך בסוף המשחק",he,-1
 2005,5,153,23,Latvia,Walter & Kazha,The War Is Not Over,"Ta na na na... na na...
 Na na na... na na...
 
@@ -37440,7 +37440,7 @@ boonika bate tare
 boonika bate doba cu machuca 'n casa mare
 boonika bate doba
 boonika bate tare
-boonika bate doba cu machuca 'n casa mare","en, sw",0
+boonika bate doba cu machuca 'n casa mare",en,0
 2005,7,137,12,Serbia & Montenegro,No Name,Zauvijek Moja,"Tamo, ljubavi, gdje zvone zvona
 Ti æeš zauvijek bit' samo moja
 Tamo gdje i rijeka ljubi more
@@ -38776,7 +38776,7 @@ le peuple unі ne sera jamaіs vaіncu!
 разом — разом нас багато!
 
 разом нас багато — нас не подолати!
-разом!","bg, uk",1
+разом!",bg,1
 2005,21,28,10,Spain,Son de sol,Brujería,"En cada esquina de mi casa
 En cada cosa que me pasa
 Voy sintiendo su presencia que me mira
@@ -39243,7 +39243,7 @@ chacun mène à bien
 (on continue à y croire)
 que ce qu'il veut bien
 
-hey, hey, hey",fr,4
+hey, hey, hey",fr,3
 2005,24,4,17,Germany,Gracia,Run & Hide,"You'd better run and hide
 Twenty five dollars wasted on you
 Got you out of trouble, but you'll soon
@@ -39455,7 +39455,7 @@ day-na gonna take my wild chances
 day-na-day-na freedom above
 day-na-da-na-da i'm wild dancing
 hey! hey!
-hey! hey! hey! hey! hey! hey!","en, so",0
+hey! hey! hey! hey! hey! hey!",en,0
 2004,2,263,5,Serbia & Montenegro,Željko Joksimović,Lane Moje,"Kad na te pomislim
 bojim se da te opet zavolim,
 u modre usne zarijem zube
@@ -40793,7 +40793,7 @@ la paz y la felicidad
 en tu camino hallarás
 todo lo que deseas alcanzar
 
-c'est l'amour que dessineront nos mains",fr,4
+c'est l'amour que dessineront nos mains",fr,3
 2004,16,29,20,United Kingdom,James Fox,Hold On To Our Love,"
 Baby ive been foolish been layin you down
 ive been a little selfish by playin around
@@ -41233,7 +41233,7 @@ du bist die kraft, die mich umgibt
 du bist die wärme, bist das licht
 und was ich sonst noch alles brauch
 das bist du auch
-",de,4
+",de,3
 2004,22,7,13,Belgium,Xandee,1 Life,"Lift me up, take me down
 You can turn my world around
 I can hear what people say
@@ -41608,7 +41608,7 @@ aliya irema nia madilé
 léala léala sorimana sorimana
 léala léala sorimanao
 léala léala sorimana sorimana
-léala léala sorimana soléo","tl, id, sw",1
+léala léala sorimana soléo","fr, tl, id",1
 2003,3,164,11,Russia,t.A.T.u.,"Ne Ver', Ne Boisia","Raznije noči, raznije ljudji
 Khočet nje khočet, ljubjit nje ljubjit
 Kto-ta atstanjet, kto-ta saskočet
@@ -42037,7 +42037,7 @@ neprivychnyj…
 bez razdorov… vzryvov, zlosti i voyny
 
 
-von dort oben ist die welt einfach nur… schön",pl,1
+von dort oben ist die welt einfach nur… schön","pl, de, nl",1
 2003,8,81,1,Iceland,Birgitta,Open Your Heart,"Every time you close your eyes,
 I can see the light that you're hiding.
 Like a shadow in the sky,
@@ -43138,7 +43138,7 @@ correct
 submit translation
 
 auto-scroll
-",fr,4
+",fr,3
 2003,19,17,13,Israel,Lior Narkis,Words For Love,"יש מיליון מילים לאהבה
 רק אני עוד לא מוצא מילים שמובילות אלייך
 אחפש, אבדוק בכל פינה
@@ -43197,7 +43197,7 @@ ti amo
 אמצא את המילה שעד אלייך מובילה לאהבה                             it`s my way to say i want you
 sagapo, je t`aime i love you
 ti amo
-או פשוט, אוהב אותך",he,3
+או פשוט, אוהב אותך",he,4
 2003,20,15,9,Cyprus,Stelios Constantas,Feeling Alive,"Give me your hand, give me your smile
 Give me your kiss, baby, please just be mine
 I need your love, I need you tonight
@@ -44415,7 +44415,7 @@ je me battrai comment
 on dit qu'il faut du temps
 mais des milliers de voix
 le crieront avec moi
-",fr,4
+",fr,3
 2002,6,85,1,Cyprus,One,Gimme,"[Intro]
 Say yeah, gimme your lovin'
 (Gimme, gimme, gimme, gimme)
@@ -45060,7 +45060,7 @@ will open our hearts
 light all the candles
 let's light the candles everywhere
 just look at me and take my hand
-the heat of love will glow again","he, en",3
+the heat of love will glow again","he, en",-1
 2002,13,33,15,Bosnia & Herzegovina,Maja,Na Jastuku Za Dvoje,"Dobro jutro, srce mi se smiješi
 Tebe neće, s tobom samo griješi
 Riječi utjehe meni nisu potrebne
@@ -45587,7 +45587,7 @@ edno mesto, edno parče zemja na jug
 toa, znaj, od nas zavisi                         ajde probaj, zamisli si za mig
 edno mesto, edno parče zemja na jug
 može za tebe da bide raj
-toa, znaj, od nas zavisi","sl, hr",1
+toa, znaj, od nas zavisi",sl,1
 2002,20,24,13,Finland,Laura,Addicted To You,"You don't know how I was then
 All broken up, my pride was stolen
 I lived a little lie
@@ -45884,7 +45884,7 @@ tu trouveras ta demeure
 la plus belle de ses roses
 m'a enchantée mille fois
 dans le jardin de mon âme
-ii n'y a que toi pour moi",fr,4
+ii n'y a que toi pour moi",fr,3
 2002,23,12,24,Lithuania,Aivaras,Happy You,"Noriu parodyti tau vienai
 Pasaulį aplink mus, aukštai ir žemai
 Švytinčios žvaigždės ir šokantis mėnulis
@@ -46400,7 +46400,7 @@ que la vie me condamne si tu n'es plus ma voie
 et s'éteint cette flamme qui brûle pour toi
 je n'ai que mon âme pour parler de moi
 je n'ai que mon âme pour parler de moi
-eh yeah",fr,4
+eh yeah",fr,3
 2001,5,100,7,Sweden,Friends,Listen To Your Heartbeat,"I want to know
 What you feel inside
 Is something wrong
@@ -46699,7 +46699,7 @@ you're my destiny, oh...
 my whole life is one big fantasy, oh...
 and all i am means nothing till you're here with me
 
-energy",en,0
+energy","en, cy",0
 2001,8,66,19,Germany,Michelle,Wer Liebe Lebt,"Sommersonnenschein, der in dein Zimmer fällt
 Hell und warm, dich umarmt
 Und der Schattenblick, der deine Tage trübt
@@ -46738,7 +46738,7 @@ und du suchst die melodie voll gefühl und voll poesie
 wer liebe lebt, wird unsterblich sein
 wer liebe lebt, ist niemals allein
 such sie an jedem neuen tag
-neuen tag",de,4
+neuen tag",de,3
 2001,9,48,21,Malta,Fabrizio Faniello,Another Summer Night,"The golden sand beneath my feet
 There's music in the air
 A guitar in my hand
@@ -46923,7 +46923,7 @@ nothing more left for me but only to say
 i still love you, please come back, my lonely heart
 keeps calling you back, once again
 i feel that old pain, lonely am i now, tonight
-oh...","tr, en",1
+oh...",tr,1
 2001,12,37,6,Russia,Mumiy troll,Lady Alpine Blue,"To love newcomers' fashion
 Oh so special
 You may want to believe me
@@ -47095,7 +47095,7 @@ you got style, baby
 you got style, you got style,
 you got style, baby
 you got style, you got style,
-you got style, baby","en, af",0
+you got style, baby",en,0
 2001,14,29,3,Bosnia & Herzegovina,Nino,Hano,"Come on
 
 I da sunce zađe tačno u pola tri
@@ -47156,7 +47156,7 @@ hano, come, come on, tell me what is going on
 tell me, would it be all right for me to be your...?                           hano, hajde, de, zar ti oči ne vide?
 zar ti duša ne sluša kad kažem da...?
 hano, hajde, de, zar ti oči ne vide?
-zar ti duša ne sluša kad kažem da volim te?","hr, sl",1
+zar ti duša ne sluša kad kažem da volim te?",hr,1
 2001,15,28,16,United Kingdom,Lindsay D.,No Dream Impossible,"No dream impossible
 No dream impossible
 
@@ -47344,7 +47344,7 @@ vekhozer hanigun hamukar
 ein davar, ein davar, ein davar
 
 vekhozer hanigun hamukar
-ein davar, ein davar, ein davar","no, et, sl",1
+ein davar, ein davar, ein davar","no, sl",1
 2001,17,18,11,Portugal,MTM,Só Sei Ser Feliz Assim,"[Intro]
 Yeah...
 Whoa, yeah...
@@ -48298,7 +48298,7 @@ wadde hadde dudde da?
 wadde hadde dudde da?
 wadde hadde dudde da?
 wadde hadde dudde da?
-oh my god!","nl, cy, af",1
+oh my god!","cy, nl",1
 2000,6,92,23,Ireland,Eamonn Toal,Millennium Of Love,"
 Nature's child lays beside a mother's broken heart
 We stand denied the power and glory
@@ -49365,7 +49365,7 @@ la vita dov'è? la vita cos'è?
 un palco d'amore ma l'applauso non c'é
 se tu non ci sei
 
-se tu non ci sei",it,3
+se tu non ci sei",it,4
 2000,21,8,11,Cyprus,Voice,Nomiza,"Ha perduto tutto quanto
 Ho ferito e dopo ho pianto tanto
 Infiammato dal tuo amore
@@ -49424,7 +49424,7 @@ emozioni da ignorare, lievi
 νανανά... νανανά... νανανά... α α α...
 
 νόμιζα η καρδιά είχε πάντα πρωτιά
-κι όμως φεύγω εγώ, ναι ακόμα σ' αγαπώ",el,3
+κι όμως φεύγω εγώ, ναι ακόμα σ' αγαπώ",el,4
 2000,22,7,1,Israel,Ping Pong,Sa'me'akh,"Kol hayom ani yoshevet bakibuts
 Bayad sigar veze margish li ktsat chamuts
 Kol hazman rak dika'on veshi'amum
@@ -49473,7 +49473,7 @@ ze lo chochma le'ehov rak ksheyesh lecha cheshek
 ani rotsa la'asot et ze ito kol hayom
 oh... sameach
 oh... sameach
-oh... oh... sameach",en,1
+oh... oh... sameach","en, sk, sv",1
 2000,23,5,5,France,Sofia Mestari,On Aura Le Ciel,"Et dans tes yeux, mes yeux, plonger, traverser l'océan
 Poser enfin la main sur toi
 Et dans tes bras, mes bras, tomber, emportée par l'élan
@@ -49544,7 +49544,7 @@ s'envole toi et moi
 on aura le ciel
 un peu des anges, les ailes, on s'envole, toi et moi
 on aura le miel
-un goût d'orange, cannelle, on s'envole, toi et moi",fr,4
+un goût d'orange, cannelle, on s'envole, toi et moi",fr,3
 2000,24,2,10,Belgium,Nathalie Sorce,Envie De Vivre,"Comment vivre sans amour?
 Comment vivre sans amour?
 Comment vivre l'envie de vivre?
@@ -49585,4 +49585,4 @@ les portes de la vie en auront besoin chaque jour
 comment pourrait-on voir un sourire dans chaque regard
 si la case départ est dénuée de tout espoir?
 alors je veux vivre, vivre pour donner
-l'envie de vivre et l'envie d'aimer",fr,4
+l'envie de vivre et l'envie d'aimer",fr,3

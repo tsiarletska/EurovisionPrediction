@@ -1,26 +1,26 @@
 Country,Song,Performer,Actual_Place,Predicted_Place,Prediction_Error
-Israel,Hurricane,Eden Golan,5,4.6,0.40692901611328125
-Germany,Always On The Run,ISAAK,12,11.3,0.7408056259155273
-Italy,La noia,Angelina Mango,7,5.9,1.1280689239501953
-Luxembourg,Fighter,TALI,13,11.4,1.5617399215698242
-Spain,ZORRA,Nebulossa,22,23.6,1.5950660705566406
-Serbia,RAMONDA,TEYA DORA,17,15.3,1.7297210693359375
-Ireland,Doomsday Blue,Bambie Thug,6,7.8,1.8429718017578125
-Armenia,Jako,LADANIVA,8,10.1,2.07601261138916
-Lithuania,Luktelk,Silvester Belt,14,11.9,2.109044075012207
-Latvia,Hollow,Dons,16,13.5,2.512765884399414
-Sweden,Unforgettable,Marcus & Martinus,9,5.4,3.570924758911133
-Portugal,Grito,iolanda,10,14.5,4.516510009765625
-Greece,ZARI,Marina Satti,11,6.5,4.519630432128906
-Cyprus,Liar,Silia Kapsis,15,10.5,4.543170928955078
-Ukraine,Teresa & Maria,alyona alyona & Jerry Heil,3,7.9,4.918618202209473
-Estonia,(nendest) narkootikumidest ei tea me (küll) midagi,5MIINUST x Puuluup,20,15.0,5.038862228393555
-Austria,We Will Rave,Kaleen,24,16.2,7.828563690185547
-Slovenia,Veronika,Raiven,23,14.9,8.079010009765625
-Finland,No Rules!,Windows95man,19,9.2,9.834592819213867
-France,Mon amour,Slimane,4,14.4,10.407068252563477
-Croatia,Rim Tim Tagi Dim,Baby Lasagna,2,14.9,12.853777885437012
-Switzerland,The Code,Nemo,1,14.4,13.382835388183594
-United Kingdom,Dizzy,Olly Alexander,18,4.2,13.835548400878906
-Norway,Ulveham,Gåte,25,10.5,14.533872604370117
-Georgia,Firefighter,Nutsa Buzaladze,21,4.2,16.805455207824707
+Germany,Always On The Run,ISAAK,12,12.0,0.02710437774658203
+Armenia,Jako,LADANIVA,8,8.6,0.5687093734741211
+Latvia,Hollow,Dons,16,15.3,0.6815776824951172
+Portugal,Grito,iolanda,10,11.0,0.97833251953125
+Estonia,(nendest) narkootikumidest ei tea me (küll) midagi,5MIINUST x Puuluup,20,18.8,1.2499103546142578
+Sweden,Unforgettable,Marcus & Martinus,9,7.1,1.8931465148925781
+Greece,ZARI,Marina Satti,11,8.6,2.444263458251953
+Israel,Hurricane,Eden Golan,5,7.5,2.5038394927978516
+Spain,ZORRA,Nebulossa,22,19.4,2.602506637573242
+Ireland,Doomsday Blue,Bambie Thug,6,9.2,3.226419448852539
+Italy,La noia,Angelina Mango,7,3.6,3.4028217792510986
+Luxembourg,Fighter,TALI,13,8.5,4.54001522064209
+Ukraine,Teresa & Maria,alyona alyona & Jerry Heil,3,7.7,4.686947822570801
+Lithuania,Luktelk,Silvester Belt,14,9.0,5.014922142028809
+Cyprus,Liar,Silia Kapsis,15,9.9,5.09454345703125
+Austria,We Will Rave,Kaleen,24,17.2,6.798702239990234
+France,Mon amour,Slimane,4,13.0,8.98068904876709
+Serbia,RAMONDA,TEYA DORA,17,7.8,9.173764705657959
+Finland,No Rules!,Windows95man,19,8.7,10.334805488586426
+Croatia,Rim Tim Tagi Dim,Baby Lasagna,2,14.1,12.071452140808105
+Slovenia,Veronika,Raiven,23,10.3,12.726153373718262
+United Kingdom,Dizzy,Olly Alexander,18,4.1,13.90320634841919
+Norway,Ulveham,Gåte,25,10.7,14.304159164428711
+Switzerland,The Code,Nemo,1,15.4,14.38001823425293
+Georgia,Firefighter,Nutsa Buzaladze,21,4.6,16.410386562347412
